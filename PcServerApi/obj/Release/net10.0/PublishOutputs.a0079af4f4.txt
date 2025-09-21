@@ -1,0 +1,15 @@
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\PcServerApi.exe
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\PcServerApi.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\PcServerApi.deps.json
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\PcServerApi.runtimeconfig.json
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\PcServerApi.pdb
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fenix\Desktop\PcServerApi\PcServerApi\obj\Release\net10.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
