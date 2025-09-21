@@ -38,7 +38,7 @@ Define los usuarios que pueden acceder al panel:
     "Roles": ["admin", "dimensionesPerdidas"]
   }
 ]
-
+```
 ### `services.json`
 
 Define los servicios gestionados:
@@ -131,15 +131,6 @@ Define los servicios gestionados:
 * JWT firmado con clave simétrica (`appsettings` o hardcode base64).
 * Los roles controlan qué servicios puede gestionar un usuario.
 * Se recomienda exponer el backend sólo en LAN/VPN privada.
-
----
-
-## 📌 TODO / Mejoras futuras
-
-* [ ] Métricas de CPU/RAM de cada proceso.
-* [ ] Integración con otros juegos (ARK, Valheim, Rust).
-* [ ] Gestión de usuarios desde API en lugar de JSON.
-* [ ] WebSocket para logs en tiempo real.
 
 ---
 
