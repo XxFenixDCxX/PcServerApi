@@ -1,4 +1,3 @@
-````plaintext
 # ⚙️ PcServerApi Backend
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
@@ -39,7 +38,6 @@ Define los usuarios que pueden acceder al panel:
     "Roles": ["admin", "dimensionesPerdidas"]
   }
 ]
-````
 
 ### `services.json`
 
