@@ -99,10 +99,10 @@ app.MapPost("/services/{id}/start", (string id) =>
     var s = services.FirstOrDefault(x => x.Id == id);
     if (s is null) return Results.NotFound();
 
+    var ext = Path.GetExtension(s.Path).ToLowerInvariant();
+
     var psi = new System.Diagnostics.ProcessStartInfo
     {
-        FileName = "powershell.exe",
-        Arguments = $"-ExecutionPolicy Bypass -File \"{s.Path}\"",
         UseShellExecute = false,
         RedirectStandardOutput = true,
         RedirectStandardError = true,
@@ -110,6 +110,21 @@ app.MapPost("/services/{id}/start", (string id) =>
         CreateNoWindow = true,
         WorkingDirectory = Path.GetDirectoryName(s.Path) ?? Environment.CurrentDirectory
     };
+
+    if (ext == ".bat" || ext == ".cmd")
+    {
+        psi.FileName = "cmd.exe";
+        psi.Arguments = $"/C \"{s.Path}\"";
+    }
+    else if (ext == ".ps1")
+    {
+        psi.FileName = "powershell.exe";
+        psi.Arguments = $"-ExecutionPolicy Bypass -File \"{s.Path}\"";
+    }
+    else
+    {
+        psi.FileName = s.Path;
+    }
 
     var process = new System.Diagnostics.Process { StartInfo = psi };
 

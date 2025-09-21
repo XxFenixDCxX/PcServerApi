@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PcServerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61685fb3c443aabbc4cc5cca7bc9fd729f971065")]
 [assembly: System.Reflection.AssemblyProductAttribute("PcServerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PcServerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|c:\\users\\fenix\\desktop\\pcserverapi\\pcserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|solutionrelative:pcserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fenix\\Desktop\\PcServerApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|c:\\users\\fenix\\desktop\\pcserverapi\\pcserverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|solutionrelative:pcserverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|c:\\users\\fenix\\desktop\\pcserverapi\\pcserverapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|solutionrelative:pcserverapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|c:\\users\\fenix\\desktop\\pcserverapi\\pcserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E201F5-CB56-60B3-42EE-DC2562BA3CC2}|PcServerApi\\PcServerApi.csproj|solutionrelative:pcserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +26,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-21T09:59:35.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\PcServerApi\\appsettings.json",
               "RelativeDocumentMoniker": "PcServerApi\\appsettings.json",
               "ToolTip": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\PcServerApi\\appsettings.json",
               "RelativeToolTip": "PcServerApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T09:42:13.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T09:42:13.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\PcServerApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PcServerApi\\appsettings.Development.json",
@@ -47,18 +67,17 @@
               "RelativeToolTip": "PcServerApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T09:41:38.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T09:41:38.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\PcServerApi\\Program.cs",
               "RelativeDocumentMoniker": "PcServerApi\\Program.cs",
               "ToolTip": "C:\\Users\\Fenix\\Desktop\\PcServerApi\\PcServerApi\\Program.cs",
               "RelativeToolTip": "PcServerApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T10:57:24.506Z",
               "EditorCaption": ""
